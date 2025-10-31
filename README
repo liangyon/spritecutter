@@ -1,0 +1,11 @@
+A simple tool made with pygame, tkinter, to help you read spritesheets!
+
+Simply enter how many pixels are in each square frame of your spritesheet, and this tool will help you find the frame numbers you need for that gamedev project you've been stuck on :3 happy tilesetting!
+
+instruction to compile yourself
+
+1. Install dependencies: `pip install -r requirements.txt`
+2. Run: `python main.py`
+3. To create exe: `pyinstaller --onefile --noconsole main.py`
+
+made in less than 15 min by yours truly
